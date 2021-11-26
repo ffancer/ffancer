@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ffancer
+- 👋 Hi, I’m Paul :)
 - 👀 I’m interested in programming with Python
 - 🌱 I’m currently learning basics in programming at codewars.com (most of tasks)
 - 💞️ I’m looking to collaborate on ... dunno ;D
