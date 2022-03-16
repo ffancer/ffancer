@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basics in programming at codewars.com (most of tasks)
 - 💞️ I’m looking to collaborate on ... dunno ;D
 - 📫 How to reach me:
-inst - https://www.instagram.com/fancer_spencer/
+telegram - @AlbaFancer
 
 <!---
 ffancer/ffancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
