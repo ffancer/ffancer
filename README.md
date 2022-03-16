@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... dunno ;D
 - 📫 How to reach me:
 telegram - @AlbaFancer
+codewars: https://www.codewars.com/users/ffancer
 
 <!---
 ffancer/ffancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
