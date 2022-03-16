@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basics in programming at codewars.com (most of tasks)
 - 💞️ I’m looking to collaborate on ... dunno ;D
 - 📫 How to reach me:
-telegram - @AlbaFancer
+telegram - @AlbaFancer,
 codewars: https://www.codewars.com/users/ffancer
 
 <!---
