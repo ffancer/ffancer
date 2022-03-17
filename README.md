@@ -26,6 +26,8 @@ codewars: https://www.codewars.com/users/ffancer
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  
 </div>
 <!---
 ffancer/ffancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
