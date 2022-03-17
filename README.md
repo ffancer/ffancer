@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300"/>
 </div>
-  https://img.shields.io/badge/LinkedIn-blue
+  https://img.shields.io/badge/telegram-blue
 
 
 - 👋 Hi, I’m Paul :)
