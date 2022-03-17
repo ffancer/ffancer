@@ -1,3 +1,9 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="100"/>
+</div>
+
+
 - 👋 Hi, I’m Paul :)
 - 👀 I’m interested in programming with Python
 - 🌱 I’m currently learning basics in programming at codewars.com (most of tasks)
