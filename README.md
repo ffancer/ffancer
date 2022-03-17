@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge" alt="Youtube Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=ffancer&style=flat-square&color=blue" alt=""/>
 </div>
- https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge
- https://img.shields.io/badge/CodeWars-red?style=for-the-badge
+ 
  
 
 
