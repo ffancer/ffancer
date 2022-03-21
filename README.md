@@ -12,8 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ffancer&style=flat-square&color=blue" alt=""/>
 </div>
  
- 
-
+ <hr>
 
 - 👋 Hi, I’m Paul :)
 - 👀 I’m interested in programming with Python
@@ -23,8 +22,10 @@
 telegram - https://t.me/AlbaFancer,
 codewars: https://www.codewars.com/users/ffancer
 
+<hr>
+
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -32,8 +33,9 @@ codewars: https://www.codewars.com/users/ffancer
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+<hr>
 
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ffancer&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffancer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
