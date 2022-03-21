@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300"/>
   <div id="badges">
-  <a href="@AlbaFancer">
+  <a href="https://t.me/AlbaFancer">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.codewars.com/users/ffancer">
@@ -28,7 +28,8 @@ codewars: https://www.codewars.com/users/ffancer
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
